@@ -42,7 +42,7 @@ We use simple heuristics to suggest items. Like,
       - Logic behind this is, similar items may be sold together.
       
       <p align="center">
-      <img src="images/recommendation-machine-learning.jpg" height="300" width="600">
+      <img src="images/recommendation-machine-learning.jpeg" height="300" width="600">
       </p>
       
       
@@ -76,7 +76,7 @@ We have 2 files
   
  
   <p align="center">
-      <img src="images/output.png" height="300" width="600">
+      <img src="images/output.PNG" height="300" width="600">
   </p>
   
   
