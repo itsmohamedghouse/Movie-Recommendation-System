@@ -1,5 +1,11 @@
 # Movie-Recommendation-System
 
+
+<p align="center">
+  <img src="Images/netflix-recommendation.png" height="300" width="600">
+</p>
+
+
 The rapid growth of data collection has led to a new era of information. Data is being used to create more efficient systems and this is where Recommendation Systems come into play. Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are realted to the search history of the user.
 
 They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other: Amazon uses it to suggest products to customers, YouTube uses it to decide which video to play next on autoplay, and Facebook uses it to recommend pages to like and people to follow. Moreover, companies like Netflix and Spotify depend highly on the effectiveness of their recommendation engines for their business and success.
@@ -24,11 +30,20 @@ We use simple heuristics to suggest items. Like,
       - So, we recommend user B‘s other liked items to user A.
       - Logic behind this is, similar people may like similar items.
       
+      <p align="center">
+      <img src="Images/user-based-recommendation.png" height="300" width="600">
+      </p>
+      
+      
   - Item based
       - Let’s say one user buy item P.
       - Now, from all the user’s data, there’s one item S which users bought almost all time whenever item P get bought.
       - So, we recommend item S to users whenever they buy item P.
       - Logic behind this is, similar items may be sold together.
+      
+      <p align="center">
+      <img src="Images/recommendation-machine-learning.png" height="300" width="600">
+      </p>
       
       
  Above 2 methods are very basic ones. But they shows how simple recom mendation algorithms work.
@@ -59,8 +74,20 @@ We have 2 files
   
   ## Output
   
+ 
+  <p align="center">
+      <img src="Images/output.png" height="300" width="600">
+  </p>
+  
   
   
   ## Conclusion
   
+User-based filtering is expected to be superior when dealing with big amounts of data, whereas item-based collaborative filtering is expected to perform better on smaller datasets.
+
+### How to use
+Download the .ipynb file and run in jupyter notebook or Google Colab. Start executing from top, code is written in such a format that if started from middle or executed blocks without executing previous blocks may lead to error or inappropriate outputs.
+
+For uploading the dataset- Upload the dataset to your drive. Mount your drive. Paste the path inside pd.read_csv()
+
   
