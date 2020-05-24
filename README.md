@@ -76,7 +76,7 @@ We have 2 files
   
  
   <p align="center">
-      <img src="images/output.PNG" height="600" width="600">
+      <img src="images/output.PNG" height="800" width="600">
   </p>
   
   
