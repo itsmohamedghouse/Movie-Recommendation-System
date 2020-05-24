@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Images/netflix-recommendation.png" height="300" width="600">
+  <img src="images/netflix-recommendation.png" height="300" width="600">
 </p>
 
 
@@ -31,7 +31,7 @@ We use simple heuristics to suggest items. Like,
       - Logic behind this is, similar people may like similar items.
       
       <p align="center">
-      <img src="Images/user-based-recommendation.png" height="300" width="600">
+      <img src="images/user-based-recommendation.png" height="300" width="600">
       </p>
       
       
@@ -42,7 +42,7 @@ We use simple heuristics to suggest items. Like,
       - Logic behind this is, similar items may be sold together.
       
       <p align="center">
-      <img src="Images/recommendation-machine-learning.png" height="300" width="600">
+      <img src="images/recommendation-machine-learning.jpg" height="300" width="600">
       </p>
       
       
@@ -76,7 +76,7 @@ We have 2 files
   
  
   <p align="center">
-      <img src="Images/output.png" height="300" width="600">
+      <img src="images/output.png" height="300" width="600">
   </p>
   
   
